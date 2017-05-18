@@ -86,7 +86,7 @@ body {
 }
 .main-footer a {
   display: block;
-  background-color: red;
+  background-color: gray;
   padding: 8px;
   text-decoration: none;
   color: white;
